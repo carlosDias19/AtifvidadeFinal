@@ -75,4 +75,11 @@ Este projeto segue princípios modernos de desenvolvimento de software, incluind
 
 ---
 
-## Estrutura de Pastas
+
+---
+
+## Como Executar
+
+1. Delete a pasta de migrations. 
+2. Execute as migrações: Add-Migration Inicial
+                         Update-Database
