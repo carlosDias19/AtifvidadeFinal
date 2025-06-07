@@ -1,0 +1,138 @@
+[
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.EstadoController",
+    "Method": "Get",
+    "RelativePath": "api/Estado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DDD.Domain.AtividadeAulaContext.Estado, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.EstadoController",
+    "Method": "GetById",
+    "RelativePath": "api/Estado/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DDD.Domain.AtividadeAulaContext.Estado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "GetPontoTuristico",
+    "RelativePath": "api/PontoTuristico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "InsertPontoTuristico",
+    "RelativePath": "api/PontoTuristico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pontoTuristico",
+        "Type": "DDD.Domain.AtividadeAulaContext.PontoTuristico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "UpdatePontoTuristico",
+    "RelativePath": "api/PontoTuristico",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pontoTuristico",
+        "Type": "DDD.Domain.AtividadeAulaContext.PontoTuristico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "GetPontoTuristicoById",
+    "RelativePath": "api/PontoTuristico/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "DeletePontoTuristico",
+    "RelativePath": "api/PontoTuristico/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DDD.Application.Api.Controllers.PontoTuristicoController",
+    "Method": "BuscarPontoTuristico",
+    "RelativePath": "api/PontoTuristico/buscar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "termo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

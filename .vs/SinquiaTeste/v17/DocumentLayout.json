@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.domain\\atividadeaulacontext\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\atividadeaulacontext\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\consoleapp1\\interface\\ipontoturisticoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\ipontoturisticoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\consoleapp1\\application\\pontoturisticoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\pontoturisticoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.application.api\\controllers\\pontoturisticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\pontoturisticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.application.api\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\consoleapp1\\interface\\iestadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\iestadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\consoleapp1\\application\\estadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\estadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\ddd.infra.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\ddd.infra.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.domain\\atividadeaulacontext\\pontoturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\atividadeaulacontext\\pontoturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\repositories\\pontoturisticosqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\pontoturisticosqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\interfaces\\ipontoturisticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\ipontoturisticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.infra.sqlserver\\interfaces\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\domainservice\\service\\pontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\pontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\domainservice\\service\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\domainservice\\interface\\ipontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\ipontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\p\u00F3sgradua\u00E7\u00E3o\\aula 2\\aula\\attfinal\\ddd.domain\\usermanagementcontext\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\usermanagementcontext\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250607223358_Inicial.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Migrations\\20250607223358_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:33:58.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250607223003_Inicial.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Migrations\\20250607223003_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:30:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PontoTuristicoController.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Application.Api\\Controllers\\PontoTuristicoController.cs",
+              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\PontoTuristicoController.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Application.Api\\Controllers\\PontoTuristicoController.cs",
+              "RelativeToolTip": "DDD.Application.Api\\Controllers\\PontoTuristicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:29:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Application.Api\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\EstadoController.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Application.Api\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "DDD.Application.Api\\Controllers\\EstadoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:29:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPontoTuristicoApplication.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Interface\\IPontoTuristicoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IPontoTuristicoApplication.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Interface\\IPontoTuristicoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IPontoTuristicoApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:29:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEstadoApplication.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Interface\\IEstadoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IEstadoApplication.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Interface\\IEstadoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IEstadoApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:29:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PontoTuristicoApplication.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Application\\PontoTuristicoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\PontoTuristicoApplication.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Application\\PontoTuristicoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\PontoTuristicoApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:28:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoApplication.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Application\\EstadoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\EstadoApplication.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\ConsoleApp1\\Application\\EstadoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\EstadoApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:28:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DDD.Infra.SQLServer",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T22:22:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "DDD.Domain\\Domain.csproj",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\Domain.csproj",
+              "RelativeToolTip": "DDD.Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T22:22:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\SqlContext.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\SqlContext.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\SqlContext.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:22:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PontoTuristicoSqlServer.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Repositories\\PontoTuristicoSqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\PontoTuristicoSqlServer.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Repositories\\PontoTuristicoSqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\PontoTuristicoSqlServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EstadoRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:45.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPontoTuristicoRepository.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Interfaces\\IPontoTuristicoRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IPontoTuristicoRepository.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Interfaces\\IPontoTuristicoRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IPontoTuristicoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEstadoRepository.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PontoTuristicoService.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Service\\PontoTuristicoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\PontoTuristicoService.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Service\\PontoTuristicoService.cs",
+              "RelativeToolTip": "DomainService\\Service\\PontoTuristicoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:20.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EstadoService.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Service\\EstadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\EstadoService.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Service\\EstadoService.cs",
+              "RelativeToolTip": "DomainService\\Service\\EstadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPontoTuristicoService.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Interface\\IPontoTuristicoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IPontoTuristicoService.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Interface\\IPontoTuristicoService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IPontoTuristicoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:21:06.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEstadoService.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Interface\\IEstadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IEstadoService.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DomainService\\Interface\\IEstadoService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IEstadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:20:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\UserManagementContext\\User.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\UserManagementContext\\User.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\UserManagementContext\\User.cs",
+              "RelativeToolTip": "DDD.Domain\\UserManagementContext\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:20:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\AtividadeAulaContext\\Estado.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\AtividadeAulaContext\\Estado.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\AtividadeAulaContext\\Estado.cs",
+              "RelativeToolTip": "DDD.Domain\\AtividadeAulaContext\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:20:21.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PontoTuristico.cs",
+              "DocumentMoniker": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\AtividadeAulaContext\\PontoTuristico.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\AtividadeAulaContext\\PontoTuristico.cs",
+              "ToolTip": "D:\\P\u00F3sGradua\u00E7\u00E3o\\Aula 2\\Aula\\AttFinal\\DDD.Domain\\AtividadeAulaContext\\PontoTuristico.cs",
+              "RelativeToolTip": "DDD.Domain\\AtividadeAulaContext\\PontoTuristico.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:19:53.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
